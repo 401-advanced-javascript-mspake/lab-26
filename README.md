@@ -16,5 +16,5 @@
 ###### `header -> React header component`  
 ###### `footer -> React footer component`  
   
-#### UML  
-![uml]()  
+<!-- #### UML  
+![uml]()   -->
